@@ -25,9 +25,12 @@
 | [QuantEdge](https://github.com/tarun89034/stock-prediction-and-backtesting) | Stock prediction + backtesting · 30+ exchanges | Python · LSTM · vectorbt | [Demo](https://huggingface.co/spaces/ty8890/stock-prediction-platform) |
 | [Derivatives Pricing Engine](https://github.com/tarun89034/option-pricing) | Black-Scholes · Monte Carlo · 50x faster loading | Python · Flask · Chart.js | [Demo](https://option-pricing-snowy.vercel.app/) |
 | [AI-NIDS](https://github.com/tarun89034/AI-Powered-Network-Intrusion-Detection-System-NIDS-with-Real-Time-ML-Observability) | 99.9% accuracy · 250K+ records · <100ms dashboard | Scikit-learn · React · FastAPI | GitHub |
+| [Vendor Performance Analysis](https://github.com/tarun89034/Vendor-Performance-Analysis-Optimization) | ETL pipeline · Power BI dashboard · hypothesis testing | Python · SQL · Power BI | GitHub |
+| [Portfolio Optimization](https://github.com/tarun89034/Portfolio-optimization-using-python) | MPT · Sharpe Ratio maximization · FRED API | Python · SciPy · yfinance | GitHub |
+| [Credit Risk Assessment](https://github.com/tarun89034/Credit-Risk-Analysis) | XGBoost · Grid Search CV · real-time predictions | Python · Scikit-learn · Streamlit | GitHub |
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tarun-yadav-a5b538251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tarun-yadav-a5b538251/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tarun-yadav-a5b538251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tarun-yadav-a5b538251/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
